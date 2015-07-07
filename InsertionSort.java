@@ -1,4 +1,4 @@
-public class Sort {
+public class InsertionSort {
     public static void main(String[] args) {
         int[] a = {31, 41, 59, 26, 41, 58};
         insertionSort(a);
